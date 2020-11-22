@@ -1,0 +1,4 @@
+#Sun Nov 22 20:25:55 BRT 2020
+base.0=/home/cana/Documents/helloworld/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
