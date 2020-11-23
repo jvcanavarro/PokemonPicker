@@ -1,16 +1,13 @@
-# helloworld
+# PokemonPicker
 
-A new Flutter project.
+Simple app to get a random pokemon. 
 
-## Getting Started
+## Background
 
-This project is a starting point for a Flutter application.
+This project is a starting point to learn Flutter. The app interface makes a request from [PokeAPI](https://pokeapi.co/) and shows the Pokemon's name and image. Occasionally, this knowledge will be used on a further academic project.
 
-A few resources to get you started if this is your first Flutter project:
+## TODO 
+- [ ] Full centralization of pokemon's information.
+- [ ] Get used to more features of the framework, specially widget configuration.
+- [ ] Add screenshot.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
